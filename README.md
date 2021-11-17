@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jamil-Rock
+- 👋 Hi, I’m @Jamil-Rock, Jamil Gebara Neto.
 - 👀 I’m interested in  front-end , dar vida a códigos  e  traçar metas em estudos  e  carreira profissional.
 - 🌱 I'm currently studying system analysis and development, specifically specializing in front-end and web designer
 - 💞️ Sempre em constante inovação, aprendizado, construção de códigos e concretização de ideias
