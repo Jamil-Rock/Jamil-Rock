@@ -3,4 +3,5 @@
 - 🌱 I'm currently studying system analysis and development, specifically specializing in front-end and web designer
 - 💞️ Sempre em constante inovação, aprendizado, construção de códigos e concretização de ideias
 - 📫 How to reach me ... São Paulo,Liberdade,Brasil.
+- 
 ![image](https://user-images.githubusercontent.com/94498346/142095485-effe98fc-a6e2-408f-aba0-289dda13e5b1.png)
