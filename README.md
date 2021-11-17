@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jamil-Rock
+- 👀 I’m interested in  front-end ,HTML,CSS,JAVASCRIPT,marketing,
+- 🌱 I'm currently studying system analysis and development, specifically specializing in front-end and web designer
+- 💞️  I always try to develop and learn more and more, that's why I'm looking for new opportunities
+- 📫 How to reach me ... São Paulo,Liberdade,Brasil.
