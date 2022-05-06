@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o Jamil.
+## 👋 Olá, eu sou o Jamil.
 - 👀 Estudo front-end e web designer, gosto de dar a vida a códigos, traçar metas em estudos e na carreira profissional.
 - 🌱 Sou estudante de Análise e Desenvolvimento Sistemas, me especializando na área de E-Commerce e Marketing Digital.
 - 💞️ Sempre em constante inovação, aprendizado, construção de códigos e concretização de ideias.
